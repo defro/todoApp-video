@@ -1,13 +1,14 @@
-# Sample Hardhat Project
+# Web 3.0 ToDo App with Next Js, Solidity Smart Contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+YouTube: https://www.youtube.com/watch?v=S2IjZZZ6R8Q&list=PLxujTw_q4tppfr5i7nbZo0aQ3SEm5F6SW
 
-Try running some of the following tasks:
+## Start application
 
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
+### Launch Docker container
+
+###
+```bash
+cd /app/github
+npm install
+npm run dev
 ```
